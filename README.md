@@ -71,7 +71,7 @@ This project demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/background-gradient-generator.git
+   git clone https://github.com/aqib897/background-gradient-generator.git
    ```
 2. Open `index.html` in your browser.
 3. Click the buttons to generate and copy gradients.
